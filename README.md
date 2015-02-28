@@ -28,16 +28,12 @@ Ssh into it:
 
     vagrant ssh
 
-Edit .vimrc to add Slimv plugin. Add:
+Run byobou:
 
-    Plugin 'kovisoft/slimv'
+    byobou
 
-after this line:
+Done.
 
-    Plugin 'gmarik/Vundle.vim'
-
-install Plugins:
-
-    vim +PluginInstall +qall
-
-
+To have an ideo of how to use vim for scheme, read the vim plugin tutorial:
+    
+    [Slimv Tutorial](http://kovisoft.bitbucket.org/tutorial.html)
