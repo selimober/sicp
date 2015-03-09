@@ -34,6 +34,4 @@ Run byobou:
 
 Done.
 
-To have an ideo of how to use vim for scheme, read the vim plugin tutorial:
-    
-[Slimv Tutorial](http://kovisoft.bitbucket.org/tutorial.html)
+To have an ideo of how to use vim for scheme, read the vim plugin tutorial: [Slimv Tutorial](http://kovisoft.bitbucket.org/tutorial.html)
